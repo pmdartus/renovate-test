@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^4.9.0",
+    "eslint": "^8.0.0",
     "jsdom": "^14.1.0",
     "minimist": "^1.2.1",
     "moment": "^1.7.2"
