@@ -4,12 +4,12 @@
     "packageRules": [
         {
             "matchDepTypes": ["devDependencies"],
-            "matchUpdateTypes": ["patch", "minor"],
+            "matchUpdateTypes": ["patch", "minor", "major"],
             "groupName": "devDependencies upgrade"
         },
         {
             "matchDepTypes": ["dependencies"],
-            "matchUpdateTypes": ["patch", "minor"],
+            "matchUpdateTypes": ["patch", "minor", "major"],
             "groupName": "Dependencies upgrade"
         }
     ]
