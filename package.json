@@ -16,12 +16,12 @@
     "moment": "^1.7.2"
   },
   "dependencies": {
-    "async": "^2.6.4",
+    "async": "^3.2.3",
     "babel": "^6.23.0",
     "commander": "^9.2.0",
     "debug": "^4.3.4",
-    "glob": "^4.5.3",
-    "lodash": "^3.10.1",
+    "glob": "^8.0.1",
+    "lodash": "^4.17.21",
     "react": "^18.0.0"
   }
 }
