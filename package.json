@@ -14,6 +14,8 @@
     "minimist": "^1.2.1"
   },
   "dependencies": {
-    "glob": "^4.5.3"
+    "babel": "^6.23.0",
+    "glob": "^4.5.3",
+    "react": "^15.7.0"
   }
 }
