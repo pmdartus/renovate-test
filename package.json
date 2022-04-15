@@ -11,11 +11,14 @@
   "license": "ISC",
   "devDependencies": {
     "eslint": "^4.9.0",
-    "minimist": "^1.2.1"
+    "jsdom": "^14.1.0",
+    "minimist": "^1.2.1",
+    "moment": "^1.7.2"
   },
   "dependencies": {
     "babel": "^6.23.0",
     "glob": "^4.5.3",
+    "lodash": "^3.10.1",
     "react": "^15.7.0"
   }
 }
