@@ -10,10 +10,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^4.19.1",
-    "jsdom": "^14.1.0",
+    "eslint": "^8.13.0",
+    "jsdom": "^19.0.0",
     "minimist": "^1.2.6",
-    "moment": "^1.7.2"
+    "moment": "^2.29.2"
   },
   "dependencies": {
     "async": "^3.2.3",
