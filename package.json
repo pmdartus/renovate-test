@@ -12,5 +12,8 @@
   "devDependencies": {
     "eslint": "^4.9.0",
     "minimist": "^1.2.1"
+  },
+  "dependencies": {
+    "glob": "^4.5.3"
   }
 }
